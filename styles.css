@@ -5,7 +5,6 @@
   align-items: center;
   height: 100vh; /* Adjust the height as needed */
   overflow: hidden;
-  object-fit:cover;
 }
 a{
 	background-color:red;
@@ -14,4 +13,7 @@ a{
 }
 h1{
 	align-items:center;
+}
+img{
+	object-fit:cover;
 }
